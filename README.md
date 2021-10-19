@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yan
-- 👀 I’m interested in everything about data analytics because we can actually make a difference through it! 
-- 🌱 I’m currently learning Python, SQL and reading books about business operation. Next I will also learn machine learning.
+- 👀 I’m a programming self-learner
+- 🌱 I have fun in programming and I hope I can make a difference with it! 
 - 📫 How to reach me: mayan1015@gmail.com
 
 <!---
